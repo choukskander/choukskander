@@ -1,11 +1,3 @@
-<style>
-    .web-dev-img {
-        width: 100%; /* S'adapte à la largeur du conteneur */
-        max-width: 400px; /* Largeur maximale */
-        height: auto; /* Conserve les proportions */
-    }
-</style>
-<img class="web-dev-img" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg" alt="Web Development" />
 <h1 align="center">Hi 👋, I'm chouk skander</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
